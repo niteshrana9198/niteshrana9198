@@ -1,11 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on AI/ML based projects  <br>👯 I’m looking to collaborate on Machine Learning & Python projects  <br>🤝 I’m looking for help with Deep Learning and real-world AI applications  <br>🌱 I’m currently learning Data Science, NLP & Computer Vision  <br>💬 Ask me about Python, AI basics and projects  <br>⚡ Fun fact: I love turning ideas into smart AI solutions 🚀
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er.nitesh_rana_1_) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Er.Nitesh Kr Rana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nkumarrana770@gmail.com)
 
@@ -17,18 +12,3 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niteshrana9198 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=niteshrana9198 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshrana9198 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niteshrana9198 &limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=niteshrana9198 &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
